@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vegan</string>
+    <string name="question_1">나는 비건을 실천하는 중이거나 실천해 본 적이 있다</string>
+    <string name="question_2">나는 원하는 식사 메뉴를 자유롭게 선택할 수 있는 환경에 놓여있다</string>
+    <string name="question_3"> "지구 온난화와 같은 환경 문제에 관심이 많은 편이다"</string>
+    <string name="question_4">   "공장식 축산의 문제점에 대해 알고 있고 공감하는 편이다"</string>
+    <string name="question_5">   "주변에 비건을 실천하고 있는 가족이나 친구, 지인이 있다"</string>
+    <string name="question_6">   "평소 비건 음식에 관심이 있거나 비건 식당 등에 방문하는 편이다"</string>
+    <string name="question_7">  "한 명의 완전힌 비건보다 다수의 비건 지향자들이 있는 편이 낫다고 생각한다"</string>
+    <string name="question_8">   "육류가 과잉 생산, 과잉 소비되고 있다고 생각한다"</string>
+    <string name="question_9">   "나는 내가 할 수 있는 선에서 육류 소비를 줄여 볼 생각이 있다"</string>
+    <string name="question_10">   "나는 완전한 비건을 실천하고자 하는 확고한 결심이 있다"</string>
+</resources>
