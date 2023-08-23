@@ -4,6 +4,7 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -54,7 +55,7 @@ fun MainScreen(navController: NavController) {
 
             )
 
-
+//하하
             Text(
                 text = "본 서비스는 비건을 실천해보고자 하는 이들을 위하여 만들어졌습니다. " +
                         "몇가지 질문을 통해 나에게 맞는 비거니즘 단계를 추천해드리고, 자신이 목표한 대로 실천 일지를 남길 수 있는 서비스입니다. ",
